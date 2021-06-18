@@ -17,4 +17,4 @@ Postup
 4. Přidat zbylé mléko a pořádně promíchat
 5. Smažit na pánvi potřené olejem
 
-Na indukční desce použít stupeně 6 a 7
+Na indukční desce použít stupně 6 a 7.
