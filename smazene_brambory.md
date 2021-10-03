@@ -2,7 +2,7 @@
 
 <sup>2021-10-03</sup>
 
-![](smazene_brambory.jpg)
+![](smazene_brambory.png)
 
 Suroviny
 
