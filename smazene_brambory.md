@@ -1,8 +1,6 @@
 # Smažené brambory
 
-<sup>2021-10-03</sup>
-
-![](smazene_brambory.png)
+![Smažené brambory](smazene_brambory.png)
 
 Suroviny
 

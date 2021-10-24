@@ -1,9 +1,8 @@
 # Zdenek
 
-<sup>2021-10-03</sup>
-
 ## Kuchařka
 
+* [Čínské smažené nudle](cinske_smazene_nudle.md)
 * [Langoše](langose.md)
 * [Palačinky](palacinky.md)
 * [Smažené brambory](smazene_brambory.md)

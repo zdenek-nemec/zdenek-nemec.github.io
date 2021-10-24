@@ -1,7 +1,5 @@
 # Palačinky
 
-<sup>2021-06-16</sup>
-
 Suroviny
 
 * **Hladká mouka**: 200 g
