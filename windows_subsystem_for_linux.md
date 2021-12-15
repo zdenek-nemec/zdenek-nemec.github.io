@@ -19,9 +19,11 @@ Follow [Microsoft guide](https://docs.microsoft.com/en-gb/windows/wsl/install-ma
         * Windows Subsystem for Linux
 
 2. Restart
+
 3. Install Ubuntu (e.g. 20.04)
 
     * From Microsoft Store
+
     * Or manually
 
         1. Download [WSL Ubuntu Package](https://aka.ms/wslubuntu2004) `*.appx`
@@ -29,6 +31,7 @@ Follow [Microsoft guide](https://docs.microsoft.com/en-gb/windows/wsl/install-ma
         3. During the installation setup username and password for the Linux subsystem
 
 4. Download and run [WSL2 Linux kernel update package for x64 machines](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
+
 5. Run PowerShell as administrator and check that Ubuntu subsystem is installed
 
     ```powershell
