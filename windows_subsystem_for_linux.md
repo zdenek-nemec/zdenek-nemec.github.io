@@ -45,7 +45,7 @@ Follow [Microsoft guide](https://docs.microsoft.com/en-gb/windows/wsl/install-ma
     wsl --set-version <distribution_name> 2
     ```
 
-## Kepping Linux Up-to-Date
+## Keeping Linux Up-to-Date
 
 After the installation and later from time to time you should update the Linux system. To do this just execute following commands.
 
@@ -53,3 +53,4 @@ After the installation and later from time to time you should update the Linux s
 sudo apt-get update
 sudo apt-get upgrade
 ```
+
