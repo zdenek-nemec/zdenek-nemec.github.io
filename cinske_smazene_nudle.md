@@ -2,9 +2,13 @@
 
 ![Čínské smažené nudle](cinske_smazene_nudle.png)
 
-[YouTube - Starej Fotr](https://www.youtube.com/watch?v=Z3iSVL95--E&feature=youtu.be&ab_channel=StarejFotr)
+Recept pro 2-3 osoby.
 
-Suroviny
+Zdroje
+
+* [YouTube - Starej Fotr](https://www.youtube.com/watch?v=Z3iSVL95--E&feature=youtu.be&ab_channel=StarejFotr)
+
+## Suroviny
 
 * **Čínské nudle**: 250 g
 * **Kuřecí prsa**: 100 g
@@ -20,6 +24,8 @@ Suroviny
 * **Chilli (Bhut Jolokia)**: 1/2 kávové lžičky
 * **Sójová omáčka**: 2 polévkové lžíce
 * **Olej**
+
+## Příprava
 
 Nudle
 
@@ -64,7 +70,7 @@ Smažená cibulka
 3. Vyndat krátce před tím, než vypadá hotová
 4. Prosušit na papírové utěrce
 
-Tipy
+## Tipy
 
 * Nudle lze dělat během, nebo těsně před, smažením
 * Nepoužívat celé balení čínských nudlí, 0,5 kg = 8 porcí

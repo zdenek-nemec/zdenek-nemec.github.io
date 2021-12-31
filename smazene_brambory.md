@@ -2,7 +2,7 @@
 
 ![Smažené brambory](smazene_brambory.png)
 
-Suroviny
+## Suroviny
 
 * **Brambory**: 1 kg
 * **Sůl**
@@ -10,7 +10,7 @@ Suroviny
 * **Mléko**
 * **Olej**
 
-Postup
+## Příprava
 
 1. Brambory umýt a vařit ve slupce zhruba 30 minut
 2. Vařené brambory oloupat a rozkrájet na menší díly
@@ -18,5 +18,7 @@ Postup
 4. V průběhu smažení solit, celkem 4 velké špetky soli (na 1 kg brambor)
 5. Ke konci smažení přidat kmín
 
-Při smažení na indukční desce použít stupně 6 a 7.
-Podávat s mlékem.
+## Tipy
+
+* Při smažení na indukční desce použít stupně 6 a 7.
+* Podávat s mlékem.

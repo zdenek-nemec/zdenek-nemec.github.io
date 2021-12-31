@@ -2,7 +2,7 @@
 
 Recept pro 2-3 osoby.
 
-Suroviny
+## Suroviny
 
 * **Hladká mouka**: 1/2 kg
 * **Mléko**: 250 ml
@@ -16,7 +16,7 @@ Suroviny
 * **Strouhaný sýr**
 * **Kečup**
 
-Postup
+## Příprava
 
 1. Mouku nasypat do mísy a uprostřed udělat důlek
 2. Mléko mírně ohřát a nalít do důlku v mouce
