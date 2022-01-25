@@ -1,6 +1,6 @@
 # Zdenek
 
-* Bash
+* [Bash](bash.md)
 * Docker
 * Java
 * Python
