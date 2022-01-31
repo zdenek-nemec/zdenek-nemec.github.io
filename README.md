@@ -4,6 +4,7 @@
 * Docker
 * Java
 * Python
+* [Selenium](selenium.md)
 * Sublime Merge
 * Sublime Text
 * Unity
