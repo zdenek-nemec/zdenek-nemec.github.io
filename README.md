@@ -2,6 +2,7 @@
 
 * [Bash](bash.md)
 * Docker
+* [Git](git.md)
 * Java
 * Python
 * [Selenium](selenium.md)
