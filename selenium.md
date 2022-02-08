@@ -24,3 +24,36 @@ driver = webdriver.Chrome()
 driver.get("http://selenium.dev")
 driver.quit()
 ```
+
+### Java
+
+1. Start IntelliJ IDEA and start new project
+2. Use Maven
+3. Add following dependencies to `pom.xml`
+
+    ```xml
+    <dependencies>
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.0.0</version>
+        </dependency>
+    </dependencies>
+    ```
+
+4. Create new class and test the setup with the code below
+
+    ```java
+    import org.openqa.selenium.WebDriver;
+    import org.openqa.selenium.chrome.ChromeDriver;
+
+    public class JavaSelenium {
+        public static void main(String[] args) {
+            WebDriver driver = new ChromeDriver();
+            driver.get("https://selenium.dev");
+            String title = driver.getTitle();
+            System.out.println("The title is " + title);
+            driver.quit();
+        }
+    }
+    ```
