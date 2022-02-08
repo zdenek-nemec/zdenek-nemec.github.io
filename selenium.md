@@ -12,7 +12,7 @@ Sources
    `c:\Program Files\GoogleChromeWebDriver\`
 2. Add the path to the Web Driver to the `PATH` variable
 
-### Python
+## Python
 
 1. Install Selenium module via `pip install -U selenium`
 2. Test the setup using code below
@@ -25,7 +25,7 @@ driver.get("http://selenium.dev")
 driver.quit()
 ```
 
-### Java
+## Java
 
 1. Start IntelliJ IDEA and start new project
 2. Use Maven
