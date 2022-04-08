@@ -6,6 +6,12 @@ Sources
 
 ## Usage
 
+### Merge and Squash
+
+```bash
+git merge --squash BRANCH
+```
+
 ### Reset
 
 If you have not pushed your changes to remote:
