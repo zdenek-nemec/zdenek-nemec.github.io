@@ -4,6 +4,7 @@
 * Docker
 * [Git](git.md)
 * Java
+* [Linux/Unix](linux_unix.md)
 * Python
 * [Selenium](selenium.md)
 * Sublime Merge
