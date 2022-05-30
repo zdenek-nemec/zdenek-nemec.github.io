@@ -10,6 +10,7 @@
 * Sublime Text
 * Unity
 * Visual Studio Code
+* [Windows 10](windows_10.md)
 * [Windows Subsystem for Linux](windows_subsystem_for_linux.md)
 * Windows Terminal
 
