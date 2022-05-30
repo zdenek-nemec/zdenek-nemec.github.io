@@ -1,10 +1,9 @@
 # Zdenek
 
-* [Bash](bash.md)
 * Docker
 * [Git](git.md)
 * Java
-* [Linux/Unix](linux_unix.md)
+* [Linux/Unix + Bash](linux_unix_bash.md)
 * Python
 * [Selenium](selenium.md)
 * Sublime Merge
