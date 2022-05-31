@@ -4,6 +4,7 @@
 * [Git](git.md)
 * Java
 * [Linux/Unix + Bash](linux_unix_bash.md)
+* [PowerShell](powershell.md)
 * [Python](python.md)
 * [Selenium](selenium.md)
 * Sublime Merge
