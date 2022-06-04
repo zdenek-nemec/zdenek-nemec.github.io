@@ -1,11 +1,15 @@
 # Zdenek
 
+## Coding
+
 * Docker
 * [Git](git.md)
 * Java
 * [Linux/Unix + Bash](linux_unix_bash.md)
 * [PowerShell](powershell.md)
 * [Python](python.md)
+  * Installation
+  * Package Management
 * [Selenium](selenium.md)
 * Sublime Merge
 * Sublime Text

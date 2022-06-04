@@ -1,4 +1,4 @@
-# Linux/Unix
+# Linux/Unix + Bash
 
 ## Detach Process
 
@@ -12,8 +12,6 @@ disown -h %1
 ```
 
 `%1` is ID of the process, if there are multiple processes, use the correct ID.
-
----
 
 ## SSH Key
 
