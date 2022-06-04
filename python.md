@@ -1,6 +1,32 @@
 # Python
 
-## Yield
+## Usage
+
+### For-Cycle
+
+```python
+for item in items:
+    if item == 1:
+        break
+else:
+    print("No item is 1")
+```
+
+### Exceptions
+
+Sources
+
+* [Python Documentation](https://docs.python.org/3/tutorial/errors.html)
+
+```python
+try:
+    x = int(input("Please enter a number: "))
+    break
+except ValueError:
+    print("Oops!  That was not a valid number.")
+```
+
+### Yield
 
 Code sample:
 

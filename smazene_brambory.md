@@ -2,6 +2,10 @@
 
 ![Smažené brambory](smazene_brambory.png)
 
+Recept pro 2-3 osoby.
+
+---
+
 ## Suroviny
 
 * **Brambory**: 1 kg
@@ -9,6 +13,8 @@
 * **Kmín**
 * **Mléko**
 * **Olej**
+
+---
 
 ## Příprava
 
@@ -18,7 +24,7 @@
 4. V průběhu smažení solit, celkem 4 velké špetky soli (na 1 kg brambor)
 5. Ke konci smažení přidat kmín
 
-## Tipy
+### Tipy
 
 * Při smažení na indukční desce použít stupně 6 a 7.
 * Podávat s mlékem.

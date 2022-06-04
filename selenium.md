@@ -1,11 +1,11 @@
 # Selenium
 
+## Installation
+
 Sources
 
 * [Selenium](https://www.selenium.dev/documentation/)
 * [ChromeDriver](https://chromedriver.chromium.org/)
-
-## Installation
 
 Following guide is for Python + Chrome and Java + Chrome.
 

@@ -8,6 +8,8 @@ Zdroje
 
 * [YouTube - Starej Fotr](https://www.youtube.com/watch?v=Z3iSVL95--E&feature=youtu.be&ab_channel=StarejFotr)
 
+---
+
 ## Suroviny
 
 * **Čínské nudle**: 250 g
@@ -24,6 +26,8 @@ Zdroje
 * **Chilli (Bhut Jolokia)**: 1/2 kávové lžičky
 * **Sójová omáčka**: 2 polévkové lžíce
 * **Olej**
+
+---
 
 ## Příprava
 
@@ -70,7 +74,7 @@ Smažená cibulka
 3. Vyndat krátce před tím, než vypadá hotová
 4. Prosušit na papírové utěrce
 
-## Tipy
+### Tipy
 
 * Nudle lze dělat během, nebo těsně před, smažením
 * Nepoužívat celé balení čínských nudlí, 0,5 kg = 8 porcí

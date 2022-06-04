@@ -1,5 +1,9 @@
 # Palačinky
 
+Recept pro 2-3 osoby.
+
+---
+
 ## Suroviny
 
 * **Hladká mouka**: 200 g
@@ -9,6 +13,8 @@
 * **Mléko**: 1/2 l
 * **Olej**
 
+---
+
 ## Příprava
 
 1. Mouku, cukr a sůl promíchat
@@ -17,6 +23,6 @@
 4. Přidat zbylé mléko a pořádně promíchat
 5. Smažit na pánvi potřené olejem
 
-## Tipy
+### Tipy
 
 Na indukční desce použít stupně 6 a 7.

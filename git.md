@@ -4,6 +4,8 @@ Sources
 
 * [Stack Overflow: Reset](https://stackoverflow.com/questions/1611215/remove-a-git-commit-which-has-not-been-pushed)
 
+---
+
 ## Usage
 
 ### Merge and Squash
@@ -25,6 +27,8 @@ Else if you have pushed your changes to remote:
 ```bash
 git revert HEAD
 ```
+
+---
 
 ## Troubleshooting
 

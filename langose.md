@@ -2,6 +2,8 @@
 
 Recept pro 2-3 osoby.
 
+---
+
 ## Suroviny
 
 * **Hladká mouka**: 1/2 kg
@@ -15,6 +17,8 @@ Recept pro 2-3 osoby.
 * **Česnek**
 * **Strouhaný sýr**
 * **Kečup**
+
+---
 
 ## Příprava
 

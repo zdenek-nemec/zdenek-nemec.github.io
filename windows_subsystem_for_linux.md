@@ -1,10 +1,12 @@
 # Windows Subsystem for Linux
 
+## Installation
+
 Sources
 
 * [Microsoft guide](https://docs.microsoft.com/en-gb/windows/wsl/install-manual)
 
-## Installation
+### Instructions
 
 1. Enable Virtual Machine Platform and Windows Subsystem for Linux
 
@@ -46,6 +48,8 @@ Sources
     wsl --set-default-version 2
     wsl --set-version DISTRIBUTION_NAME 2
     ```
+
+---
 
 ## Keeping Linux Up-to-Date
 

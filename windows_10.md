@@ -1,6 +1,8 @@
 # Windows 10
 
-## Black Accent Colour
+## How To
+
+### Black Accent Colour
 
 1. Open the Registry Editor
 2. Navigate to `Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM` directory

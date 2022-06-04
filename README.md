@@ -10,6 +10,7 @@
 * [Python](python.md)
   * Installation
   * Package Management
+  * Pandas
 * [Selenium](selenium.md)
 * Sublime Merge
 * Sublime Text
@@ -18,6 +19,8 @@
 * [Windows 10](windows_10.md)
 * [Windows Subsystem for Linux](windows_subsystem_for_linux.md)
 * Windows Terminal
+
+---
 
 ## Kuchařka
 

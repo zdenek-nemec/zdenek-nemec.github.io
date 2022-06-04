@@ -1,6 +1,8 @@
 # PowerShell
 
-## Get File Hash
+## Usage
+
+### Get File Hash
 
 ```powershell
 Get-FileHash -Algorithm MD5 file.txt
