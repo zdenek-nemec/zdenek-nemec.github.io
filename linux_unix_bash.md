@@ -1,13 +1,13 @@
 # Linux/Unix + Bash
 
-## Usage
+## How To
 
 ### Detach Process
 
 Suspend the process, run it on the background and keep going even when the SSH session is closed.
 
 ```bash
-<command>
+COMMAND
 Ctrl + Z
 bg
 disown -h %1

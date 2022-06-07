@@ -1,6 +1,6 @@
 # PowerShell
 
-## Usage
+## How To
 
 ### Get File Hash
 

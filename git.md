@@ -6,7 +6,7 @@ Sources
 
 ---
 
-## Usage
+## How To
 
 ### Merge and Squash
 

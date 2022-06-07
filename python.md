@@ -1,6 +1,6 @@
 # Python
 
-## Usage
+## How To
 
 ### For-Cycle
 
@@ -28,8 +28,6 @@ except ValueError:
 
 ### Yield
 
-Code sample:
-
 ```python
 def generate_number():
     yield 0
@@ -40,15 +38,12 @@ def generate_number():
 print(generate_number())
 for i in generate_number():
     print(i)
-```
 
-Console output:
-
-```text
-<generator object generate_number at 0x00D14798>
-0
-1
-2
-3
-4
+# Output:
+# <generator object generate_number at 0x00D14798>
+# 0
+# 1
+# 2
+# 3
+# 4
 ```
