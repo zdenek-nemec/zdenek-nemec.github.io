@@ -5,6 +5,7 @@
 ### Get File Hash
 
 ```powershell
+# Synopsis
 Get-FileHash -Algorithm ALGORITHM -Path FILE
 
 # Example
