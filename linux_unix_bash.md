@@ -44,3 +44,20 @@ ln -s TARGET LINK_NAME
 # Example
 ln -s python3.7 python
 ```
+
+### Switch
+
+```bash
+choice="A"
+case $choice in
+    A)
+        echo "First case"
+        ;;
+    B)
+        echo "Second case"
+        ;;
+    *)
+        echo "Default"
+        ;;
+esac
+```
