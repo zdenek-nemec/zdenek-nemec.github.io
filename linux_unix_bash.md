@@ -61,3 +61,26 @@ case $choice in
         ;;
 esac
 ```
+
+### Dictionary
+
+```bash
+declare -A dictionary=(
+    ["Hello"]="Ahoj"
+    ["One"]="Jedna"
+)
+
+echo "Hello in Czech is" ${dictionary["Hello"]}
+echo "One in Czech is" ${dictionary["One"]}
+echo "Two in Czech is" ${dictionary["Two"]}
+
+echo "Known Czech words (values) are:" ${dictionary[@]}
+echo "Known English words (keys) are:" ${!dictionary[@]}
+
+# Output
+# Hello in Czech is Ahoj
+# One in Czech is Jedna
+# Two in Czech is
+# Known Czech words (values) are Ahoj Jedna
+# Known English words (keys) are Hello One
+```
