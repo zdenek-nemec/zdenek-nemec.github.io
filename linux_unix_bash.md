@@ -22,3 +22,25 @@ Generate SSH key pair.
 ```bash
 ssh-keygen -b 2048 -t rsa
 ```
+
+### Tar
+
+```bash
+# Synopsis
+tar -zcf ARCHIVE_FILE TARGET
+
+# Example
+tar -zcf archive.tgz data
+```
+
+### Links
+
+Symbolic link
+
+```bash
+# Synopsis
+ln -s TARGET LINK_NAME
+
+# Example
+ln -s python3.7 python
+```
