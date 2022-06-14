@@ -7,6 +7,7 @@
 * Java
 * [Linux/Unix + Bash](linux_unix_bash.md)
   * Bash Profile
+  * [Vim](linux_unix_bash_vim.md)
 * [PowerShell](powershell.md)
 * [Python](python.md)
   * Installation
