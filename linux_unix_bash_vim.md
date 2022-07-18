@@ -2,6 +2,7 @@
 
 Sources
 
+* [Vim cheat sheet](https://vim.rtorr.com/)
 * [Vim help files](https://vimhelp.org/)
 
 ## How To
@@ -28,10 +29,10 @@ vim -O a.txt b.txt
 
 ## Keyboard Shortcuts
 
-| Shortcut                       | Description                      |
-| ------------------------------ | -------------------------------- |
-| `Ctrl + W`, `Shift + H`        | Split screen horizontaly         |
-| `Ctrl + W`, `Shift + K`        | Split screen vertically          |
-| `Ctrl + W`, `Left/Right Arrow` | Move cursor to left/right window |
-| `Ctrl + W`, `Up/Down Arrow`    | Move cursor to up/down window    |
-| `Ctrl + W`, `R`                | Rotate files in split-screen     |
+| Shortcut                         | Description                      |
+| -------------------------------- | -------------------------------- |
+| `Ctrl` + `W`, `Shift` + `H`      | Split screen horizontaly         |
+| `Ctrl` + `W`, `Shift` + `K`      | Split screen vertically          |
+| `Ctrl` + `W`, `Left/Right Arrow` | Move cursor to left/right window |
+| `Ctrl` + `W`, `Up/Down Arrow`    | Move cursor to up/down window    |
+| `Ctrl` + `W`, `R`                | Rotate files in split-screen     |
