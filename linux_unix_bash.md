@@ -84,3 +84,40 @@ echo "Known English words (keys) are:" ${!dictionary[@]}
 # Known Czech words (values) are: Ahoj Jedna
 # Known English words (keys) are: Hello One
 ```
+
+### Xargs
+
+Sources
+
+* [Tecmint](https://www.tecmint.com/xargs-command-examples/)
+* [LinuxHint](https://linuxhint.com/xargs_linux/)
+
+Just print the content of current directory
+
+```bash
+ls -1 | xargs
+```
+
+Print the command before executing
+
+```bash
+ls -1 | xargs -t
+```
+
+Prompt (Y/N) before executing
+
+```bash
+ls -1 | xargs -p
+```
+
+Use specific delimiter
+
+```bash
+echo -n "123-456-789" | xargs -n 1 -d "-" echo
+```
+
+Argument
+
+```bash
+ls -1 | xargs -I {} echo prefix_{}_suffix
+```
