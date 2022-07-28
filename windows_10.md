@@ -19,3 +19,8 @@ use Registry Editor.
 3. In `Shell Folders` change the value of `Personal` to the new path
 4. In `User Shell Folders` change the value of `Personal` to the new path
 5. In `User Shell Folders` identify the hexadecimal key that matches the old path and change its value to the new path
+
+### Transparency
+
+In case that the transparency/opacity effects do not work properly, check if
+`Settings > Personalization > Colors > Transparency effects` is set to `On`
