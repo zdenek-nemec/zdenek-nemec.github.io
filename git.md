@@ -2,6 +2,7 @@
 
 Sources
 
+* Download from [Git-SCM](https://git-scm.com/)
 * [Stack Overflow: Reset](https://stackoverflow.com/questions/1611215/remove-a-git-commit-which-has-not-been-pushed)
 
 ---
@@ -31,6 +32,11 @@ git revert HEAD
 ---
 
 ## Troubleshooting
+
+### Home
+
+Environment variable `HOME` must be set in Windows, otherwise the `.ssh`
+directory will be in the default Windows home directory.
 
 ### Comment Character
 
