@@ -7,7 +7,7 @@
 1. Open Registry Editor
 2. Navigate to `Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\DWM` directory
 3. Set value of `AccentColor` to `ff000000`
-4. Set value of `AccentColorInactive` to `ff000000`
+4. Set value of `AccentColorInactive` to `ff3f3f3f`
 
 ### Home Directory
 
