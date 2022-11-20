@@ -1,6 +1,12 @@
 # Python
 
-## How To
+## Command Line Interface
+
+| Command                       | Description    |
+| ----------------------------- | -------------- |
+| `python -m unittest discover` | Run unit tests |
+
+## Code
 
 ### For-Cycle
 
