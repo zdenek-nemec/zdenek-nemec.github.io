@@ -1,8 +1,6 @@
 # Linux/Unix + Bash
 
-## How To
-
-### Detach Process
+## Detach Process
 
 Suspend the process, run it on the background and keep going even when the SSH session is closed.
 
@@ -15,7 +13,7 @@ disown -h %1
 
 `%1` is ID of the process, if there are multiple processes, use the correct ID.
 
-### SSH Key
+## SSH Key
 
 Generate SSH key pair.
 
@@ -23,17 +21,72 @@ Generate SSH key pair.
 ssh-keygen -b 2048 -t rsa
 ```
 
-### Tar
+## Tar
 
-| Synopsis                                | Example                               | Description                                                                      |
-| --------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------- |
-| `tar -cf ARCHIVE_FILE DATA_TO_ARCHIVE`  | `tar -cf archive.tar data_*`          | Create archive from files and directories                                        |
-| `tar -zcf ARCHIVE_FILE DATA_TO_ARCHIVE` | `tar -zcf archive.tgz data_*`         | Create compressed archive, extensions `.tgz` and `.tar.gz` are viable            |
-| `tar -xf ARCHIVE_FILE`                  | `tar -xf archive.tar`                 | Extract archive                                                                  |
-| `tar -zxf ARCHIVE_FILE`                 | `tar -zxf archive.tgz`                | Extract compressed archive                                                       |
-| `tar -tvf ARCHIVE_FILE`                 | `tar -tvf archive.tar`                | List the content of the archive, handles `.tar`, `.tgz` and `.tar.gz` extensions |
+Extensions
 
-### Links
+* `.tar` - Archive
+* `.tar.gz` and `.tgz` - Compressed archive
+
+### Create Archive from Files and Directories
+
+```bash
+# Synopsis
+tar -cf ARCHIVE_FILE DATA_TO_ARCHIVE
+
+# Examples
+tar -cf archive.tar data_*.txt
+tar -cf archive.tar data_directory
+```
+
+### Create Compressed Archive
+
+```bash
+# Synopsis
+tar -zcf ARCHIVE_FILE DATA_TO_ARCHIVE
+
+# Examples
+tar -zcf archive.tar.gz data_*.txt
+tar -zcf archive.tgz data_*.txt
+tar -zcf archive.tgz data_directory
+```
+
+### Extract Archive
+
+```bash
+# Synopsis
+tar -xf ARCHIVE_FILE
+
+# Examples
+tar -xf archive.tar
+```
+
+### Extract Compressed Archive
+
+```bash
+# Synopsis
+tar -zxf ARCHIVE_FILE
+
+# Examples
+tar -zxf archive.tar.gz
+tar -zxf archive.tgz
+```
+
+### List Archive Content
+
+Handles all extensions.
+
+```bash
+# Synopsis
+tar -tvf ARCHIVE_FILE
+
+# Examples
+tar -tvf archive.tar
+tar -tvf archive.tar.gz
+tar -tvf archive.tgz
+```
+
+## Links
 
 Symbolic link
 
@@ -45,7 +98,7 @@ ln -s TARGET LINK_NAME
 ln -s /dcs/data01/SOFTWARE/Python/Python3.7.8/bin/python3.7 python
 ```
 
-### Switch
+## Switch
 
 ```bash
 choice="A"
@@ -62,7 +115,7 @@ case $choice in
 esac
 ```
 
-### Dictionary
+## Dictionary
 
 ```bash
 declare -A dictionary=(
@@ -85,7 +138,7 @@ echo "Known English words (keys) are:" ${!dictionary[@]}
 # Known English words (keys) are: Hello One
 ```
 
-### Xargs
+## Xargs
 
 Sources
 
