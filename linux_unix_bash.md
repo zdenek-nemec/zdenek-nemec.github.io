@@ -25,13 +25,13 @@ ssh-keygen -b 2048 -t rsa
 
 ### Tar
 
-```bash
-# Synopsis
-tar -zcf ARCHIVE_FILE DATA_TO_ARCHIVE
-
-# Example
-tar -zcf archive_2022.tgz data_2022
-```
+| Synopsis                                | Example                               | Description                                                                      |
+| --------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------- |
+| `tar -cf ARCHIVE_FILE DATA_TO_ARCHIVE`  | `tar -cf archive.tar data_*`          | Create archive from files and directories                                        |
+| `tar -zcf ARCHIVE_FILE DATA_TO_ARCHIVE` | `tar -zcf archive.tgz data_*`         | Create compressed archive, extensions `.tgz` and `.tar.gz` are viable            |
+| `tar -xf ARCHIVE_FILE`                  | `tar -xf archive.tar`                 | Extract archive                                                                  |
+| `tar -zxf ARCHIVE_FILE`                 | `tar -zxf archive.tgz`                | Extract compressed archive                                                       |
+| `tar -tvf ARCHIVE_FILE`                 | `tar -tvf archive.tar`                | List the content of the archive, handles `.tar`, `.tgz` and `.tar.gz` extensions |
 
 ### Links
 
