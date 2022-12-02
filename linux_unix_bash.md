@@ -28,7 +28,7 @@ Extensions
 * `.tar` - Archive
 * `.tar.gz` and `.tgz` - Compressed archive
 
-### Create Archive from Files and Directories
+Create archive from files and directories
 
 ```bash
 # Synopsis
@@ -39,7 +39,7 @@ tar -cf archive.tar data_*.txt
 tar -cf archive.tar data_directory
 ```
 
-### Create Compressed Archive
+Create compressed archive
 
 ```bash
 # Synopsis
@@ -51,7 +51,7 @@ tar -zcf archive.tgz data_*.txt
 tar -zcf archive.tgz data_directory
 ```
 
-### Extract Archive
+Extract archive
 
 ```bash
 # Synopsis
@@ -61,7 +61,7 @@ tar -xf ARCHIVE_FILE
 tar -xf archive.tar
 ```
 
-### Extract Compressed Archive
+Extract compressed archive
 
 ```bash
 # Synopsis
@@ -72,9 +72,7 @@ tar -zxf archive.tar.gz
 tar -zxf archive.tgz
 ```
 
-### List Archive Content
-
-Handles all extensions.
+List the content of the archive. Handles all extensions `.tar`, `tar.gz` and `.tgz`.
 
 ```bash
 # Synopsis
