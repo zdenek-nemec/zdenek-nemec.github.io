@@ -57,7 +57,7 @@ Extract archive
 # Synopsis
 tar -xf ARCHIVE_FILE
 
-# Examples
+# Example
 tar -xf archive.tar
 ```
 
@@ -171,4 +171,20 @@ Argument
 
 ```bash
 ls -1 | xargs -I {} echo prefix_{}_suffix
+```
+
+## Generate File with Random Data
+
+Sources
+
+* [StackExchange](https://unix.stackexchange.com/questions/33629/how-can-i-populate-a-file-with-random-data)
+
+```bash
+head -c 10M </dev/urandom >random_data.dat
+
+# If the head doesn't understand the M suffix, specify the size in bytes
+head -c 10485760 </dev/urandom >random_data.dat
+
+# If the head doesn't understand the -c option, use dd
+dd if=/dev/urandom of=random_data.dat bs=1024 count=10240
 ```
