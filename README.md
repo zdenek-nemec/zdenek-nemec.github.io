@@ -12,7 +12,7 @@
 * [Markdown](markdown.md)
 * [PowerShell](powershell.md)
 * [Python](python.md)
-  * Installation
+  * [Installation](python_installation.md)
   * Package Management
   * Pandas
 * [Selenium](selenium.md)
