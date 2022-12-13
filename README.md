@@ -26,6 +26,13 @@
 
 ---
 
+## Telco
+
+* Intermediate
+* [User Location Information](uli.md)
+
+---
+
 ## Kuchařka
 
 * [Čínské smažené nudle](cinske_smazene_nudle.md)
