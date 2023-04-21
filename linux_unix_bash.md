@@ -188,3 +188,25 @@ head -c 10485760 </dev/urandom >random_data.dat
 # If the head doesn't understand the -c option, use dd
 dd if=/dev/urandom of=random_data.dat bs=1024 count=10240
 ```
+
+## Rsync
+
+Files
+
+```bash
+# Synopsis
+rsync SOURCE_PATH DESTINATION_PATH
+
+# Example
+rsync ~/*.txt zdenek@ubuntu:/home
+```
+
+Directories - Will create the synchronized directory on the destination path
+
+```bash
+# Synopsis
+rsync -r SOURCE_PATH DESTINATION_PATH
+
+# Example
+rsync -r ~/test_directory zdenek@ubuntu:/home
+```
