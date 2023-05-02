@@ -28,7 +28,7 @@
 
 ## Telco
 
-* Intermediate
+* [Intermediate](https://imecust.csgi.com/)
 * [User Location Information](uli.md)
 
 ---
